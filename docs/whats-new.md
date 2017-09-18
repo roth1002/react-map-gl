@@ -1,3 +1,10 @@
+# react-map-gl v3.1
+
+Release date: Under development, target late 2017
+
+* **React 16** - react-map-gl is now being tested with React 16, but the React peer dependency requirement is unchanged at `>=15.4.x`.
+
+
 # react-map-gl v3.0
 
 Release date: July 27th, 2017
